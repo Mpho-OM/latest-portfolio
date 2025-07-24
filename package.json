@@ -10,8 +10,8 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "18.x"
-  },
+    "node": "18.0"
+},
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
     "@next/third-parties": "15.1.1",
@@ -26,12 +26,11 @@
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^4.11.0",
     "react-toastify": "^10.0.4",
-    "sharp": "^0.33.5",
-    "webpack": "^5.100.2"
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
     "autoprefixer": "latest",
-    "eslint": "^9.31.0",
+    "eslint": "latest",
     "eslint-config-next": "15.1.1",
     "postcss": "latest",
     "sass": "^1.69.5",
